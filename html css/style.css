@@ -1,0 +1,44 @@
+body{
+    margin-right: 30px;
+    margin-left: 30px;
+    background-image: url(https://images.unsplash.com/photo-1591708370135-f2fac858e97b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
+    
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: justify;
+    color: aqua;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: crimson;
+}
+.noline{
+    text-decoration: none;
+
+}
+a:hover{
+    color: crimson
+}
+h2{
+    font-size: 35px;
+    color: aqua;
+}
+h3{
+
+    font-size: 25px;
+    color: aqua;
+}
+#credit{
+    text-align: center;
+    text-decoration-color: aqua;
+}
+img{
+    margin: auto;
+    display: block;
+}
